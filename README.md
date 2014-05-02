@@ -5,5 +5,7 @@ Takes in a file, where each line is formatted like
 an example.
 
 Usage: python eval.py <file>
+
 Example: python eval.py physics
+
 Output: 60 / 60
